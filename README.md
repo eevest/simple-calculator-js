@@ -1,2 +1,5 @@
-# simple-calculator-js
-Simple calculator using HTML, CSS3 and JavaScript
+# Simple calculator web inspired on MacOS Monterrey
+Tools: 
+- HTML
+- CSS3 
+- JavaScript
