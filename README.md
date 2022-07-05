@@ -1,5 +1,5 @@
-# Simple calculator web inspired on MacOS Monterrey
+# Simple calculator web inspired on MacOS Monterrey 🖥
 Tools: 
-- HTML
-- CSS3 
-- JavaScript
+- HTML ✅
+- CSS3 ✅
+- JavaScript ✅
